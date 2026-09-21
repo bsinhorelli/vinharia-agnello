@@ -8,9 +8,11 @@ var quantEstoque = prompt("Quantidade em estoque: ");
 
 alert("Cadastro realizado! Veja os detalhes no console.");
 
-alert("abrindo console")
-console.log
-nomeVinho
-tipoVinho
-safraVinho
-quantEstoque
+alert("abrindo console");
+
+console.log(`
+Vinho: ${nomeVinho} 
+Tipo de vinho:${tipoVinho} 
+Safra: ${safraVinho} 
+Quantidade em estoque: ${quantEstoque}
+`);
