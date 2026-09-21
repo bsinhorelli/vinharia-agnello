@@ -11,11 +11,4 @@ Sistema básico para cadastro e análise de vinhos artesanais da Vinheira Agnell
 
 ## link do projeto
 
-
-- Nome do projeto  
-- Descrição resumida (ex: "Sistema básico para cadastro e análise de vinhos artesanais da Vinheira Agnello")  
-- Lista com o **nome completo dos integrantes do grupo**
-- Link do GitHub Pages  
-- (Opcional) Imagem da tela ou GIF de demonstração
-
----
+### https://bsinhorelli.github.io/vinharia-agnello/
