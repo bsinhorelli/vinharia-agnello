@@ -12,7 +12,7 @@ alert("abrindo console");
 
 console.log(`
 Vinho: ${nomeVinho} 
-Tipo de vinho:${tipoVinho} 
+Tipo de vinho: ${tipoVinho} 
 Safra: ${safraVinho} 
 Quantidade em estoque: ${quantEstoque}
 `);
